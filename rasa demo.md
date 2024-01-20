@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zrannie/rasa/blob/main/logo.png">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://github.com/zrannie/rasa/blob/main/logo.png" alt="Logo" width=512 height=512>
   </a>
 
   <h3 align="center">Logo</h3>
