@@ -19,7 +19,7 @@
 ## Table of contents
 
 - [Problem Statement](#problem-statement)
-- [Industry Trend and Market Competitor Analysis] (#industry-trend-and-market-competitor-analysis)
+- [Industry Trend and Market Competitor Analysis](#industry-trend-and-market-competitor-analysis)
 - [Company Introduction](#company-introduction)
 - [Founding Story](#founding-story)
 - [Product Walkthrough](#product-walkthrough)
