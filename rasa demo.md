@@ -8,7 +8,7 @@
 - [Industry Trend and Market Competitor Analysis](#industry-trend-and-market-competitor-analysis)
 - [Company Introduction](#company-introduction)
 - [Founding Story](#founding-story)
-- [Product Walkthrough](#product-walkthrough)
+- [Product Features](#product-features)
 - [Technical Solution](#technical-solution)
 - [Customer Growth Statistics](#customer-growth-statistics)
 - [Customer Success Stories](#customer-success-stories)
@@ -27,7 +27,7 @@ Rasa is a cutting-edge web-based presentation tool that revolutionizes the way p
 ## Founding Story
 Born out of a hackathon challenge, Rasa was initially conceptualized as a solution to enhance presentation dynamics. The founders, recognizing the potential of voice-controlled technology in presentations, developed Rasa to bridge the gap between presenters and their content.
 
-## Product Walkthrough
+## Product Features
 - **Voice Control**: Utilizing the Web Speech API, Rasa allows presenters to navigate through slides using voice commands.
 - **Advanced Functionality**: Integration with Google Cloud Vision API and Microsoft Cognitive Services Bing Images API enables features like jumping to slides with specific images and pulling relevant assets from the web.
 - **Technical Innovation**: Incorporating PDFMiner and PyPDF2 for text and image extraction, Flask for connecting JavaScript and Python back-end, and regular expressions for flexible voice commands.
