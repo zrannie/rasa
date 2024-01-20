@@ -14,7 +14,8 @@
 
 
 # Rasa Company Wiki
-
+## Logo
+<img src="https://github.com/zrannie/rasa/blob/main/logo.png" alt="Logo" width=512 height=512>
 
 ## Table of contents
 
