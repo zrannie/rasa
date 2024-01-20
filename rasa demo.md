@@ -17,6 +17,18 @@
 
 # Rasa Company Wiki
 
+
+## Table of contents
+
+- [Problem Statement](#problem-statement)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
+
 ## Problem Statement
 In the realm of presentations, speakers often face the challenge of managing their slides while maintaining engagement with their audience. Traditional presentation methods require physical interaction with the computer, disrupting the flow and visual continuity of the presentation. Rasa addresses these issues by offering a hands-free, voice-controlled presentation experience.
 
@@ -59,16 +71,6 @@ For inquiries, support, or feedback:
 
 *Note: The statistics and content above are creatively generated for this example and do not represent actual data.*
 
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
