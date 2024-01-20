@@ -46,12 +46,14 @@ Rasa's technical architecture is designed for scalability and efficiency. The la
 
 ## Our Team
 Rasa is developed and maintained by a diverse team of engineers, designers, and marketers who are passionate about revolutionizing the presentation experience. The team's expertise spans across software development, AI, and user experience design.
+- Kyle
+- Annie
 
 ## Contact Method
 For inquiries, support, or feedback:
 - Email: support@rasa.ai
 - Phone: +1 (800) 123-4567
-- Website: [www.presentalk.com](http://www.rasa.ai)
+- Website: [www.rasa.ai](http://www.rasa.ai)
 
 ---
 
