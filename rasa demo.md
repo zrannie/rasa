@@ -8,9 +8,7 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+
   </p>
 </p>
 
@@ -21,13 +19,15 @@
 ## Table of contents
 
 - [Problem Statement](#problem-statement)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [Industry Trend and Market Competitor Analysis] (#industry-trend-and-market-competitor-analysis)
+- [Company Introduction](#company-introduction)
+- [Founding Story](#founding-story)
+- [Product Walkthrough](#product-walkthrough)
+- [Technical Solution](#technical-solution)
+- [Customer Growth Statistics](#customer-growth-statistics)
+- [Customer Success Stories](#customer-success-stories)
+- [Our Team](#our-team)
+- [Contact Method](#contact-method)
 
 ## Problem Statement
 In the realm of presentations, speakers often face the challenge of managing their slides while maintaining engagement with their audience. Traditional presentation methods require physical interaction with the computer, disrupting the flow and visual continuity of the presentation. Rasa addresses these issues by offering a hands-free, voice-controlled presentation experience.
